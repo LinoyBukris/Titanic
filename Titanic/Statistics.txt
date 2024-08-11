@@ -1,0 +1,32 @@
+Survival rates: 
+ 
+Survival percentages by class: 
+first - 62%
+second - 47%
+third - 24%
+
+Survival percentages by sex: 
+male - 18%
+female - 74%
+
+Survival percentages by class: 
+0-10 - 59%
+11-20 - 38%
+21-30 - 36%
+31-40 - 44%
+41-50 - 38%
+51+ - 34%
+
+Survival percentages by family presence: 
+With family - 50%
+Without family - 30%
+
+Survival percentages by ticket price: 
+Less than 10 pounds - 19%
+11-30 pounds - 44%
+More than 30 pounds - 58%
+
+Survival percentages by port of embarkation: 
+Q - 38%
+S - 33%
+C - 55%
